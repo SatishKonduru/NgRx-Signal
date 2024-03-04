@@ -1,0 +1,13 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.title{
+    margin-top: 5px;
+    padding: 10px;
+    border: 2px solid #c11818;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #000;
+}
